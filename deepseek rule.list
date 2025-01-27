@@ -1,6 +1,6 @@
 # 内容：deepseek 海外版
 # 数量：3条
 
-DOMAIN-SUFFIX,deepseek.com //(deepseek官方域名)
-DOMAIN-SUFFIX,volces.com //(火山大引擎)
-DOMAIN-SUFFIX,portal101.cn //(数美反欺诈接入的js)
+DOMAIN-SUFFIX,deepseek.com 
+DOMAIN-SUFFIX,volces.com 
+DOMAIN-SUFFIX,portal101.cn 
